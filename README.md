@@ -1,7 +1,7 @@
 
-### Boas-vindas ao meu perfil !!!🚗🎻🎼
+Boas-vindas ao meu perfil !!!🚗🎻🎼
 
-Meu nome é João da Rocha
+ Meu nome é João da Rocha
 
 - Estou estudando no Alura
 - Estou me desenvolvendo na Linguagem JavaScript 👨‍💻
